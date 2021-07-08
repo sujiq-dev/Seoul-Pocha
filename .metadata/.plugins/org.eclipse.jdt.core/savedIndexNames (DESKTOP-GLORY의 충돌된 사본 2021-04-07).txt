@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\DevRoot\Dropbox\Project_Miracle\.metadata\.plugins\org.eclipse.jdt.core
+2438169815.index
+3037620017.index

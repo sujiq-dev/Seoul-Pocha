@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Mon Jun 07 21:02:12 KST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\5.2.1.RELEASE\\spring-web-5.2.1.RELEASE.jar=C\:\\tomcat\\TomcatEx1\\apache-tomcat-9.0.43\\wtpwebapps\\FT_Seoul\\WEB-INF\\lib\\spring-web-5.2.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ITCS\\.m2\\repository\\org\\springframework\\spring-web\\5.2.1.RELEASE\\spring-web-5.2.1.RELEASE.jar=C\:\\tomcat\\TomcatEx1\\apache-tomcat-9.0.43\\wtpwebapps\\FT_Seoul\\WEB-INF\\lib\\spring-web-5.2.1.RELEASE.jar
+org.eclipse.jst.jee.server\:FT_Seoul=C\:\\tomcat\\TomcatEx1\\apache-tomcat-9.0.43\\wtpwebapps\\FT_Seoul

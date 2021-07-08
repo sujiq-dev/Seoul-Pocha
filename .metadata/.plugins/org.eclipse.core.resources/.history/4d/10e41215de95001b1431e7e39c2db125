@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+
+.header {
+    width : 500px;
+    height: 200px;
+    margin: 2% auto 5% auto;
+    overflow: hidden;
+}
+
+.body { 
+    border: 1px dotted black;
+    width : 100%;
+    height : auto;
+    margin-bottom: 2%;
+}
+
+#pic1 {
+    float: left;
+    position: relative;
+}
+
+#pic2 {
+    float: left;
+    position: absolute;
+}
+
+#pic3 {
+    float: right;
+    position: relative;
+}
+
+.footer { 
+    margin-top: 1%;
+    text-align: center;
+    font-size: 10pt;
+}
+
+.footer a{
+	text-decoration: none;
+	color: gray;
+}
+
+.right {
+	color: gray;
+}
